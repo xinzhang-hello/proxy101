@@ -28,6 +28,8 @@ url: "https://xizhang-hello.github.io" # the base hostname & protocol for your s
 twitter_username: 
 github_username:  
 
+google_analytics: G-P1LQP437G9
+
 # Build settings
 theme: minima
 plugins:
